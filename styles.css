@@ -1,12 +1,12 @@
 h1{
-    color:blue;
+    color: black;
 }
-p{
-   font-size: 16px; 
+h2{
+    color: blue;
 }
-b{
-    font-size: 16px;
+body{
+    background-color: lightblue;
 }
 hr{
-    border:2px solid blue ;
+    border: 1px solid blue;
 }
